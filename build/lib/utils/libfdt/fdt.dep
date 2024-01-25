@@ -1,0 +1,9 @@
+/nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/build/lib/utils/libfdt/fdt.o: \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/lib/utils/libfdt/fdt.c \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/lib/utils/libfdt/libfdt_env.h \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/include/sbi/sbi_string.h \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/include/sbi/sbi_types.h \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/lib/utils/libfdt/fdt.h \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/lib/utils/libfdt/libfdt.h \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/lib/utils/libfdt/libfdt_env.h \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/lib/utils/libfdt/libfdt_internal.h

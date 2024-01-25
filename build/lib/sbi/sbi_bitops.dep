@@ -1,0 +1,4 @@
+/nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/build/lib/sbi/sbi_bitops.o: \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/lib/sbi/sbi_bitops.c \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/include/sbi/sbi_bitops.h \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/include/sbi/sbi_types.h

@@ -1,0 +1,6 @@
+/nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/build/lib/utils/reset/fdt_reset_htif.o: \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/lib/utils/reset/fdt_reset_htif.c \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/include/sbi_utils/reset/fdt_reset.h \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/include/sbi/sbi_types.h \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/include/sbi_utils/fdt/fdt_helper.h \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/include/sbi_utils/sys/htif.h

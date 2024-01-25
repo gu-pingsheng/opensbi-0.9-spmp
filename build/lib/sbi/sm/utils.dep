@@ -1,0 +1,26 @@
+/nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/build/lib/sbi/sm/utils.o: \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/lib/sbi/sm/utils.c \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/include/sbi/riscv_encoding.h \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/include/sbi/sbi_const.h \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/include/sbi/sbi_string.h \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/include/sbi/sbi_types.h \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/include/sbi/riscv_locks.h \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/include/sbi/sbi_console.h \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/include/sm/utils.h \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/include/sm/sm.h \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/include/sm/print.h \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/include/sm/platform/pmp/platform.h \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/include/sm/platform/pmp/enclave_mm.h \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/include/sm/pmp.h \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/include/sbi/riscv_asm.h \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/include/sbi/sbi_hartmask.h \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/include/sbi/sbi_bitmap.h \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/include/sbi/sbi_bitops.h \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/include/sm/enclave.h \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/include/sm/vm.h \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/include/sm/enclave_args.h \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/include/sm/thread.h \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/include/sm/platform/spmp/spmp.h \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/include/sbi/riscv_atomic.h \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/include/sm/thread.h \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/include/sm/platform/pmp/platform_thread.h

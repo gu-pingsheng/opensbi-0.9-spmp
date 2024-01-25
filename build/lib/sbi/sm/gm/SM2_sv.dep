@@ -1,0 +1,14 @@
+/nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/build/lib/sbi/sm/gm/SM2_sv.o: \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/lib/sbi/sm/gm/SM2_sv.c \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/include/sm/gm/miracl/miracl.h \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/include/sm/gm/miracl/mirdef.h \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/include/sm/gm/SM2_sv.h \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/include/sm/gm/SM3.h \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/include/sm/print.h \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/include/sbi/sbi_console.h \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/include/sbi/sbi_types.h \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/include/sbi/sbi_string.h \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/include/sbi/riscv_asm.h \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/include/sbi/riscv_encoding.h \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/include/sbi/sbi_const.h \
+ /nfs/home/yangjinyu/Workspaces20240103/PENGLAI-ZGC-TEE/opensbi/include/sbi/sbi_timer.h
